@@ -15,6 +15,7 @@ Interested in the intersection of mathematics, software engineering, and interac
   <img src="https://github.com/snugpenguin968/snugpenguin968/assets/85849926/21f5a98b-fb25-4643-814b-06f7dbcb3fc4" title="ThreeJS" alt="ThreeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
+  <img src="https://cesium.cdn.prismic.io/cesium/3c19423a-8e50-48d0-86f1-434fe890caa5_cesiumjs_white.svg" title="CesiumJS" alt="Cesium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/305728/apollographql.svg" title="Apollo" alt="Apollo" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
@@ -22,6 +23,7 @@ Interested in the intersection of mathematics, software engineering, and interac
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="SocketIO" alt="SocketIO" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  
 </div>
 
 ### Data and ML
