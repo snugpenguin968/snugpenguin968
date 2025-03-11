@@ -14,7 +14,7 @@ Big fan of soccer, free food, sleeveless vests, and Instagram reels.
 - I am contributing to a private repository trust me
 
 ### Rice Wireless (Department of Electrical and Computer Engineering, Rice University)
-**Systems Software Engineer Intern** | September 2024 - Present | Houston, TX
+**Research Assistant** | September 2024 - Present | Houston, TX
 - Investigating latency/throughput in networks with C, C++, and DPDK
 
 ### General Atomics
