@@ -19,9 +19,8 @@ Big fan of soccer, free food, sleeveless vests, Perplexity for generating this, 
 
 ### General Atomics
 **Systems Software Engineer Intern** | June 2024 - August 2024 | Huntsville, AL
-- Worked on a visualization system for Fencepost, a real-time acoustic threat detection system, using TypeScript, Vue.js, Express.js/Node.js, etc.
-- Developed C#/.NET and C++ simulation engine to test the Long Range Manuevering Projectile (LRMP)
-
+- Worked on a visualization system for a real-time acoustic threat detection system, using TypeScript, Vue.js, Express.js/Node.js, etc.
+- Developed C#/.NET and C++ simulation engine used to analyze guided projectile test runs
 
 ### RiceApps
 **Full-Stack Developer** | September 2023 - Present | Houston, TX
