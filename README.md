@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Big fan of soccer, free food, sleeveless vests, and Instagram reels. 
+Big fan of soccer, free food, sleeveless vests, Perplexity for generating this, and Instagram reels.
 
 ## 💼 Experience
 ### Something
